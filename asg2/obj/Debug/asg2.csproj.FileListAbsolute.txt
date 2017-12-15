@@ -1,0 +1,10 @@
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\bin\Debug\asg2.exe.config
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\bin\Debug\asg2.exe
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\bin\Debug\asg2.pdb
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\obj\Debug\asg2.csprojResolveAssemblyReference.cache
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\obj\Debug\asg2.btnloop.resources
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\obj\Debug\asg2.Properties.Resources.resources
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\obj\Debug\asg2.csproj.GenerateResource.Cache
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\obj\Debug\asg2.csproj.CoreCompileInputs.cache
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\obj\Debug\asg2.exe
+C:\Users\Harman\Desktop\Sem 3\ASP.net\Assignments\asg2\asg2\obj\Debug\asg2.pdb
